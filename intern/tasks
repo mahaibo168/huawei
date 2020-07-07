@@ -1,0 +1,18 @@
+Interns get tasks and submit output to github repersity.
+
+# Chen Yuxiang#
+Tasks List:
+1. Linux log clear script  2020-04 week-1st
+2. community Log system collection 2020-06 week-2nd to 3rd
+3. Prometheus 监控系统调研与实践 2020-07 week-4th to 5th
+   任务输入：
+   1）了解Prometheus监控系统
+   2）github、google等官网社区，调研kafka和zookeeper 2个 exporter
+   3）重点掌握2-3个exporter
+   
+   任务输出：
+   1) expoter测试验证，代码归档
+   2）本地搭建Prometheus demo，对2个Exporter做监控验证，demo实践代码归档
+   3）做一次汇报，讲解exporter具体代码。
+   4）输出实践总结，归档
+ 
